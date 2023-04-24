@@ -1,1 +1,1 @@
-class Coucou:
+class helloWorld:
